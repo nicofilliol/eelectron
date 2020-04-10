@@ -1,0 +1,24 @@
+{
+  "name": "eelectron",
+  "version": "1.0.1",
+  "description": "A minimal Eelectron application",
+  "main": "main.js",
+  "scripts": {
+    "test": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicofilliol/eelectron.git"
+  },
+  "keywords": [
+    "electron",
+    "eel",
+    "python"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nicofilliol/eelectron/issues"
+  },
+  "homepage": "https://github.com/nicofilliol/eelectron#readme"
+}
